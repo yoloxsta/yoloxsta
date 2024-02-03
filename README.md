@@ -7,7 +7,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-div>
+<div>
   <https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-plain.svg?plain=1>
 </div>
 <!--
