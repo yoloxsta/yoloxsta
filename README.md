@@ -15,9 +15,9 @@
    <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-original-wordmark.svg#L1" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/prometheus/prometheus-original.svg#L1" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/grafana/grafana-original.svg#L1" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
- 
-
-  
+ <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/azure/azure-original.svg#L1" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg#L1" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg#L1" title="Go" alt="Go" width="40" height="40"/>&nbsp; 
 </div>
 
 <!--
