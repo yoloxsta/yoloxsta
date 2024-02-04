@@ -20,6 +20,8 @@
  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg#L1" title="Go" alt="Go" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg#L1" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/gitlab/gitlab-original.svg#L1" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg#L1" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg#L1" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp; 
 </div>
 
 <!--
