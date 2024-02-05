@@ -13,7 +13,7 @@
    <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/kubernetes/kubernetes-plain.svg?plain=1" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/terraform/terraform-original.svg?plain=1" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/ansible/ansible-original.svg?plain=1" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-original-wordmark.svg#L1" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AWS-Dark.svg#L1" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/prometheus/prometheus-original.svg#L1" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/grafana/grafana-original.svg#L1" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/azure/azure-original.svg#L1" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
