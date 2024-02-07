@@ -32,6 +32,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoloxsta&theme=https://camo.githubusercontent.com/487c31ee351a173dd78f1c106a1863d32a977cfdc4b7a152f0a40ef360dca60c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6e656f6e_icons=true)
 
+###
+
+![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soe-Htun&&show_icons=true&theme=tokyonight&count_private=true)
 <!--
 **yoloxsta/yoloxsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
