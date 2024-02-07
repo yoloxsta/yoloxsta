@@ -34,7 +34,7 @@
 
 ###
 
-![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soe-Htun&&show_icons=true&theme=tokyonight&count_private=true)
+![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoloxsta&&show_icons=true&theme=tokyonight&count_private=true)
 <!--
 **yoloxsta/yoloxsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
