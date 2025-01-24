@@ -30,6 +30,7 @@
 
 ### :hammer_and_wrench:
 ![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoloxsta&&show_icons=true&theme=tokyonight&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yoloxsta&theme=bear&hide_border=false)<br/>
 <!--
 **yoloxsta/yoloxsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
