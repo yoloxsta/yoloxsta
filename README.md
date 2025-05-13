@@ -29,7 +29,6 @@
 ---
 
 ### :hammer_and_wrench:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yethura-424&show_icons=true&locale=en" alt="yethura-424" /></p>
 
 ![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoloxsta&&show_icons=true&theme=tokyonight&count_private=true)
 <!--
