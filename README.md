@@ -1,10 +1,11 @@
 <div align="center">
   
-# Hello Guys, I'm Soe Tint Aung 👋
+# Hello Dosto 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+Engineer;Player+Of+Team+Trojans;](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+Advocate;DevOps+%26+Platform+Engineering;8%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
 
 </div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoloxsta&label=Profile%20views&color=0e75b6&style=flat" alt="yoloxsta" /> </p>
 
 ---
