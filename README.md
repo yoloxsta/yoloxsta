@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Soe+Tint+Aung" alt="Animated Name" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=Soe%20Tint%20Aung&fontSize=45&animation=fadeIn" alt="Animated Name" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Team+Trojans" alt="Typing SVG" />
 
