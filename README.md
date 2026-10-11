@@ -1,10 +1,8 @@
 <div align="center">
 
-# � Hey, I'm Soe Tint Aung
+# Hey, I'm Soe Tint Aung
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%F0%9F%9A%80;Team+Trojans+%F0%9F%8E%AE" alt="Typing SVG" />
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=yoloxsta.yoloxsta&left_color=0D1117&right_color=58A6FF&left_text=Visitors" alt="visitor badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Team+Trojans" alt="Typing SVG" />
 
 ---
 
@@ -16,25 +14,25 @@
 
 ---
 
-## ⚡ about me
+## about me
 
 ```yaml
 name: Soe Tint Aung
-location: Earth 🌍
+location: Earth
 current_focus: DevOps & Cloud Native
 status: Building stuff that deploys itself
-fun_fact: I automate things so I can sleep more 😴
+fun_fact: I automate things so I can sleep more
 ```
 
 ---
 
-## 🛠️ tech stack
+## tech stack
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### ☁️ Cloud & Infra
+### Cloud & Infra
 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -42,7 +40,7 @@ fun_fact: I automate things so I can sleep more 😴
 </td>
 <td valign="top" width="50%">
 
-### 🐳 Containers & Orchestration
+### Containers & Orchestration
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -52,7 +50,7 @@ fun_fact: I automate things so I can sleep more 😴
 <tr>
 <td valign="top" width="50%">
 
-### 🔧 IaC & Automation
+### IaC & Automation
 
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
@@ -60,7 +58,7 @@ fun_fact: I automate things so I can sleep more 😴
 </td>
 <td valign="top" width="50%">
 
-### 🔥 CI/CD & Monitoring
+### CI/CD & Monitoring
 
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
@@ -71,7 +69,7 @@ fun_fact: I automate things so I can sleep more 😴
 <tr>
 <td valign="top" width="50%">
 
-### � Languages
+### Languages
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -80,7 +78,7 @@ fun_fact: I automate things so I can sleep more 😴
 </td>
 <td valign="top" width="50%">
 
-### 🐧 OS & Tools
+### OS & Tools
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -91,7 +89,7 @@ fun_fact: I automate things so I can sleep more 😴
 
 ---
 
-## 📊 languages I use
+## languages I use
 
 <div align="center">
 
@@ -101,7 +99,7 @@ fun_fact: I automate things so I can sleep more 😴
 
 ---
 
-## 🎯 vibes
+## vibes
 
 ```go
 func main() {
@@ -118,9 +116,9 @@ func main() {
 
 <div align="center">
 
-### 📫 let's collab
+### let's collab
 
-*always down to build cool stuff* ✨
+*always down to build cool stuff*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" width="100%"/>
 
