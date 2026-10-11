@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Soe+Tint+Aung" alt="Animated Name" />
+# Soe Tint Aung
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Team+Trojans" alt="Typing SVG" />
 
