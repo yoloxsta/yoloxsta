@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=Bold&size=35&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&repeat=false&width=380&lines=Soe+Tint+Aung" alt="Name Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=header&text=Soe%20Tint%20Aung&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=DevOps%20Engineer&descAlignY=55&descSize=20" alt="Animated Header" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Team+Trojans" alt="Typing SVG" />
 
