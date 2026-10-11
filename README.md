@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%F0%9F%9A%80;Team+Trojans+%F0%9F%8E%AE" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=yoloxsta&label=Profile%20views&color=58A6FF&style=flat-square" alt="yoloxsta" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=yoloxsta.yoloxsta&left_color=0D1117&right_color=58A6FF&left_text=Visitors" alt="visitor badge"/>
 
 ---
 
